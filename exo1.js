@@ -34,7 +34,7 @@ async function fetchPosts() {
 
 }
 
-
+// Autre méthode si on passe par la liste des posts
 // async function fetchPosts() {
 //     const response = await fetch("https://www.dummyjson.com/posts");
 //     const data = await response.json();
